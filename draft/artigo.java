@@ -1,4 +1,4 @@
-Carregamento e Congelamento de Dados
+Automação de Teste de Software - Carregamento e Congelamento de Dados
 
 Ferramentas
 
@@ -33,7 +33,7 @@ O seu objetivo é revelar falhas em um produto, para que as causas dessas falhas
 
 
 Erros da fase de teste
-Segundo FEWSTER o custo para correção de um erro na fase de manutenção é de sessenta a cem vezes maior do que corrigi-lo durante o desenvolvimento [11].
+Segundo FEWSTER o custo para correção de um erro na fase de manutenção é de sessenta a cem vezes maior do que corrigi-lo durante o desenvolvimento.
 
 Automação de Testes
 Automação de testes não é uma tarefa que 	
@@ -44,10 +44,25 @@ de maneira mais rápida.(Graham & Fewster, 1999)
 
 Dificuldades encontradas no testes de software
 Existem alguns problemas na fase de automação de testes de software(Cem Kaner, 1997): 
-1. Automatizar não é barato
-2. Esta abordagem cria riscos de novos custos 
-3. Estes testes não são poderosos 
-4. Na prática, muitos grupos de teste automatizam apenas os testes simples.
+1. Automatizar não é barato(Tempo para a implementação dos testes em todos os cenários disponíveis)
+2. Esta abordagem cria riscos de novos custos(Encontrar e reparar erros durante a aplicação dos testes aumenta)
+3. Estes testes não são poderosos(Nem todos os cenários são testados)
+4. Na prática, muitos grupos de teste automatizam apenas os testes simples.(verifica saída de uma função, ou algo parecido)
+
+Facilidades encontradas no teste de software(Cem Kaner, 1997): 
+1. Molde a expectativa da gerência em relação ao tempo dos benefícios da 
+automação.(Desenvolvimento e ganho(pode se repedir inumeras vezes, durante o desenvolvimento) no desenvenvolver o teste)
+;
+2. Desenvolvimento de uma automação de testes é um desenvolvimento de 
+software.
+(É usada a mesma linguagem dos software. Cada caso é uma funcionalidade)
+3. Use uma arquitetura de testes orientada a dados.
+(Técnicas orientadas a objeto)
+4. Use uma arquitetura baseada em um framework
+(próprias estrátégias do framework de desenvolvimento)
+
+Próximo passo:
+Criar um cenário, e aplicar testes.
 
 Referências
 
