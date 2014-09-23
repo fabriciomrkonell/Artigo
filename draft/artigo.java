@@ -51,15 +51,11 @@ Existem alguns problemas na fase de automação de testes de software(Cem Kaner,
 
 Facilidades encontradas no teste de software(Cem Kaner, 1997): 
 1. Molde a expectativa da gerência em relação ao tempo dos benefícios da 
-automação.(Desenvolvimento e ganho(pode se repedir inumeras vezes, durante o desenvolvimento) no desenvenvolver o teste)
-;
+automação.(Desenvolvimento e ganho(pode se repedir inumeras vezes, durante o desenvolvimento) no desenvenvolver o teste) ;
 2. Desenvolvimento de uma automação de testes é um desenvolvimento de 
-software.
-(É usada a mesma linguagem dos software. Cada caso é uma funcionalidade)
-3. Use uma arquitetura de testes orientada a dados.
-(Técnicas orientadas a objeto)
-4. Use uma arquitetura baseada em um framework
-(próprias estrátégias do framework de desenvolvimento)
+software. (É usada a mesma linguagem dos software. Cada caso é uma funcionalidade)
+3. Use uma arquitetura de testes orientada a dados. (Técnicas orientadas a objeto)
+4. Use uma arquitetura baseada em um framework (próprias estrátégias do framework de desenvolvimento)
 
 Próximo passo:
 Criar um cenário, e aplicar testes.
